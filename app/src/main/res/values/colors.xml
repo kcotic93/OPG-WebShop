@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#A9D440</color>
+
+    <color name="Login_Button">#A9D440</color>
+    <color name="LoginButton">#A9D440</color>
+    <color name="Edit_txt_focus">#A9D440</color>
+
+    <color name="overlayBackground">#7F333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+
+    <color name="priceColor">#A9D440</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+
+
+</resources>
+

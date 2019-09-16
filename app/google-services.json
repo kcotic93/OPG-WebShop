@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "55624438156",
+    "firebase_url": "https://opg-webshop.firebaseio.com",
+    "project_id": "opg-webshop",
+    "storage_bucket": "opg-webshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55624438156:android:9b1882b9f3ff5880",
+        "android_client_info": {
+          "package_name": "com.example.kristijan.opg_webshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55624438156-h0r5fanp38e9sle5a7nhphrfap0aibl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj608j45VmEkf9qkP2p0o-rVpKMaCIlZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

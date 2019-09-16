@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/group_menu">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/actionBarProfil" />
+        <item
+            android:id="@+id/nav_address"
+            android:icon="@drawable/ic_location_city_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/actionBarAddress" />
+    </group>
+
+
+    <group android:id="@+id/group_menu2">
+        <item
+            android:id="@+id/nav_discount"
+            android:icon="@drawable/ic_money_off_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/discount" />
+
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_access_time_white_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/my_orders" />
+
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_new_releases_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/news" />
+
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info_outline_white_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/about_us" />
+
+
+    </group>
+
+    <group android:id="@+id/group_menu3">
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/sign_out" />
+
+    </group>
+
+</menu>
